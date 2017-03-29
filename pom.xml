@@ -3,12 +3,12 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
-  <modelVersion>4.0.0</modelVersion>
+  <modelVersion>4.0.0</modelVersion> <!---->
 
-  <groupId>br.ufg.inf.pratica01</groupId>
-  <artifactId>lab-pw-2017-1</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <groupId>autobiografia</groupId> <!---->
+  <artifactId>autbiografia</artifactId>  <!---->
+  <version>0.0.1-SNAPSHOT</version>       <!---->
+  <packaging>war</packaging>              <!---->
 
   <properties>
     <failOnMissingWebXml>false</failOnMissingWebXml>
