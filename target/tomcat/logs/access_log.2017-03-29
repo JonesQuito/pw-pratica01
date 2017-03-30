@@ -1,0 +1,5 @@
+127.0.0.1 - - [29/Mar/2017:21:27:09 -0300] "GET /autbiografia HTTP/1.1" 302 - http-bio-9090-exec-1 0
+127.0.0.1 - - [29/Mar/2017:21:27:09 -0300] "GET /autbiografia/ HTTP/1.1" 200 1018 http-bio-9090-exec-3 9
+127.0.0.1 - - [29/Mar/2017:21:27:09 -0300] "GET /autbiografia/menino.jpg HTTP/1.1" 200 7705 http-bio-9090-exec-2 5
+127.0.0.1 - - [29/Mar/2017:21:27:09 -0300] "GET /autbiografia/estilos/estilo.css HTTP/1.1" 200 863 http-bio-9090-exec-4 2
+127.0.0.1 - - [29/Mar/2017:21:27:09 -0300] "GET /favicon.ico HTTP/1.1" 404 - http-bio-9090-exec-6 0
