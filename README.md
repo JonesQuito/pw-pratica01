@@ -16,6 +16,10 @@ Orientação: Profº: Walison Moreira<br/>
 
 `mvnw org.apache.tomcat.maven:tomcat7-maven-plugin:run`
 
+### Acesso via navegador
+
+`http://localhost:9090/autobiografia`
+
 No Linux, use `./mvnw` ao invés de apenas `mvnw`, como no Windows. Além disso, pelo menos uma vez, é preciso dar permissão de execução ao arquivo de script **mvnw** com o comando `chmod +x mvnw`.
 
 ## Opções para empacotar a aplicação:
